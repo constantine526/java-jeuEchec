@@ -1,6 +1,6 @@
 # java-jeuEchec
 
-: ## Présentation
+ ## Présentation
 Ce projet consiste à modéliser et implémenter en Java une partie d’échecs simplifiée entre deux joueurs humains.  
 Le programme arbitre la partie, vérifie la validité des coups et affiche l’état de l’échiquier en mode texte.
 
